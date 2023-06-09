@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @silvermistma1
+- 👋 Hi, I’m @silvermistmai
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
 <!---
